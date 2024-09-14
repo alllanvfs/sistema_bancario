@@ -1,2 +1,1 @@
-Sistema bancario com saque, deposito e extrato.
-usando datetime para impor um limite de 10 transaçoes diarias 
+Sistema bancario usando Python, e estrutura de POO.
